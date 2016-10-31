@@ -1,0 +1,12 @@
+# robots.txt generated at http://www.mcanerin.com
+User-agent: *
+Disallow: /website/
+Disallow: /landing-pages/
+Disallow: /cardiology/
+Disallow: /css/
+Disallow: /fonts/
+Disallow: /includes/
+Disallow: /js/
+Disallow: /media/
+Disallow: /portfolio/
+Disallow: /engage-thank-you.php

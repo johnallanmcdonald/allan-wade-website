@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://allan-wade.com/</title>
+  <link>http://allan-wade.com/</link>
+
+<item>
+     <link>http://allan-wade.com/</link>
+     <title>The Allan Wade Company | Inbound Marketing and Lead Management</title>
+     <description>Inbound marketing and lead management performed and delivered by The Allan Wade Company</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://allan-wade.com/proven-process.php</link>
+     <title>Inbound Marketing Proven Process | The Allan Wade Company </title>
+     <description>Inbound marketing and lead management performed and delivered by The Allan Wade Company</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://allan-wade.com/privacy-policy.php</link>
+     <title>Privacy Policy | The Allan Wade Company </title>
+     <description>Privacy Policy of The Allan Wade Company</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
